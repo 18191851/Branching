@@ -1,0 +1,2 @@
+	The branching is majorly used to divide the work in the team. For example there are 2 developers in the team and one is working on features and one is working on defects and once after completing all the tasks they have to store both the changes from DEV A and B to the remote repository. So in this case branching will be helpful to make the changes easily.
+Rebase: This strategy is used in branching to merge the child branches with the master branches.
